@@ -1,15 +1,33 @@
 {  "Warmups/Cooldowns" : 
         {"Hauli Hauli" : {"type" : "warmup", 
-                        "length" : "164", 
+                        "length" : 164, 
                         "url" : "https://youtu.be/26X1r3nLO88"}
         }, 
   "Normal" : {         
         "Pinga" : {"type" : "normal",  
-                "length" : "178", 
+                "length" : 178, 
                 "url" : "https://youtu.be/R9OC9riCncs"},
         "Dheeme Dheeme" : {"type" : "normal",
-                        "length" : "152",
+                        "length" : 152,
                         "url" : "https://youtu.be/gmkB6lXI2NM"
-                        } 
+                        },
+        "Pyscho Sayaan" : {"type" : "normal", 
+                           "length" : 133,
+                            "url" : "https://youtu.be/ns2s1uhK_ik"},
+        "Husna Hai Suhana" : {"type" : "normal",
+                              "length" : 145,
+                              "url" : "https://youtu.be/lzeXhmKxrU0"},
+        "Dinero" : {"type" : "normal",
+                    "length" : 156,
+                    "url" : "https://youtu.be/mjFUYg_Uqdw"},
+        "Jalebi Baby" : {"type" : "normal",
+                         "length" : 189,
+                         "url" : "https://youtu.be/rgJo0261qSM"},
+        "Are You Ready For It" : {"type" : "normal",
+                                  "length" : 207,
+                                  "url" : "https://youtu.be/H8zhXM27e34"}
+        
+                                                      
     }
-}
+
+        }
