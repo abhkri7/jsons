@@ -1,0 +1,10 @@
+{
+    "Hauli Hauli" : {"type" : "warmup", 
+                     "length" : "164", 
+                     "url" : "https://youtu.be/26X1r3nLO88"}, 
+    "Pinga" : {"type" : "normal",  
+               "length" : "178", 
+               "url" : "https://youtu.be/R9OC9riCncs"},
+    "Dheeme Dheeme" : {"type" : "normal",
+                       "length" : "152"}
+}
