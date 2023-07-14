@@ -1,16 +1,39 @@
 {  "Warmups_Cooldowns" : 
-        {"Hauli Hauli" : {"type" : "warmup", 
+        {"Hauli Hauli" : {
+                        "type" : "warmup", 
                         "length" : 164, 
                         "url" : "https://youtu.be/26X1r3nLO88"}
         }, 
-  "Normal" : {         
-        "Pinga" : {"type" : "normal",  
+  "Normal" : {    
+        "Lamborghini" : {
+                      "type" : "normal",
+                      "length" : 159,
+                      "url" : "https://youtu.be/QXeeqjq_Hds"},
+        "Rowdy_Baby" : {"type" : "normal",
+                        "length" : 270,
+                        "url" : "https://youtu.be/3mbb2HrZu00"},
+        "Shape_of_You" : {"type" : "normal",
+                          "length" : 167,
+                          "url" : "https://youtu.be/xDfV3vME-Ds"},
+        "Dont_Go_Yet" : {"type" : "normal",
+                         "length" : 157,
+                         "url" : "https://youtu.be/JwTTQAXMops"},
+        "Girls_Like_To_Swing" : {"type" : "normal",
+                                 "length" : 165,
+                                 "url" : "https://youtu.be/zHJ_k_raX28"},
+        "Naach_Meri_Rani_Rani" : {"type" : "normal",
+                                  "length" : 202,
+                                  "url" : "https://youtu.be/RaYx_pLnByM"},
+        "Low_Key" : {"type" : "normal",
+                     "length" : 199,
+                     "url" : "https://youtu.be/3Ungi6IZje0"},
+        "Pinga" : {
+                "type" : "normal",  
                 "length" : 178, 
                 "url" : "https://youtu.be/R9OC9riCncs"},
        "Dheeme_Dheeme" : {"type" : "normal",
                         "length" : 152,
-                        "url" : "https://youtu.be/gmkB6lXI2NM"
-                        },
+                        "url" : "https://youtu.be/gmkB6lXI2NM"},
         "Pyscho_Sayaan" : {"type" : "normal", 
                            "length" : 133,
                             "url" : "https://youtu.be/ns2s1uhK_ik"},
