@@ -25,7 +25,13 @@
                          "url" : "https://youtu.be/rgJo0261qSM"},
         "Are You Ready For It" : {"type" : "normal",
                                   "length" : 207,
-                                  "url" : "https://youtu.be/H8zhXM27e34"}
+                                  "url" : "https://youtu.be/H8zhXM27e34"},
+        "Panghat" : {"type" : "normal",
+                     "length" : 142,
+                    "url" : "https://youtu.be/LBFSC1EYE5w"},
+        "Pa Venezuela" : {"type" : "normal",
+                          "length" : 229,
+                          "url" : "https://youtu.be/_x7VYWi5-wU"}
         
                                                       
     }
